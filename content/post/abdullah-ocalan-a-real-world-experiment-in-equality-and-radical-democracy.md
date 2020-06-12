@@ -3,7 +3,7 @@ authors = []
 date = 2020-06-11T23:00:00Z
 excerpt = ""
 hero = ""
-timeToRead = 0
+timeToRead = 4
 title = "Abdullah Öcalan: A Real World Experiment in Equality and Radical Democracy"
 
 +++
