@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2020-06-11T23:00:00Z
-excerpt = ""
+excerpt = "ridiculous and unproven charges. During his time in the Imrali prison on on island in the Marmara Sea, from 1999 to today, and 18 years of which were in solitary confinement, he has remained writing and reading and inspiring the Kurdish people. In my research I plan to look at radical democracy in re"
 hero = ""
 timeToRead = 4
 title = "Abdullah Öcalan: A Real World Experiment in Equality and Radical Democracy"
